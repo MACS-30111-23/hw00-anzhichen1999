@@ -9,6 +9,19 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+Biography: My name is Anzhi Chen, a MACSS student. I graduated from NYU majoring in mathematics and sociology, but the majoriy of time was spent on mathematics. My concentration on math was differential equattion, and the thesis for sociology was about circulated economy and its application. Aftter graduation, I worked in a Consulting firm named NielsonIQ for one year as a researcher. I grow up in Beijing, China, and lived in Jersey City for the past five years.
+
+#This is a header
+##This is also a header
+###This is also a header
+*In this way it is an italics*
+**This is bold**
+1. list1
+2. list2
+   1. list2 has an item
+   2. list2 has two items
+
+
 
 
 ## 📚  Resources 
