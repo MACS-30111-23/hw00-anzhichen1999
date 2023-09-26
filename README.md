@@ -12,14 +12,20 @@ Edit this README file to include a brief biography of yourself. Your README shou
 Biography: My name is Anzhi Chen, a MACSS student. I graduated from NYU majoring in mathematics and sociology, but the majoriy of time was spent on mathematics. My concentration on math was differential equattion, and the thesis for sociology was about circulated economy and its application. Aftter graduation, I worked in a Consulting firm named NielsonIQ for one year as a researcher. I grow up in Beijing, China, and lived in Jersey City for the past five years.
 
 # This is a header
+
 ## This is also a header
+
 ### This is also a header
+
 *In this way it is an italics*
+
 **This is bold**
+
 1. list1
 2. list2
    1. list2 has an item
    2. list2 has two items
+      
 ![it's a picture](./prisma.jpeg)
 
 [Google](http://www.google.com)
