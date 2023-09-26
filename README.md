@@ -9,7 +9,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-Biography: My name is Anzhi Chen, a MACSS student. I graduated from NYU majoring in mathematics and sociology, but the majoriy of time was spent on mathematics. My concentration on math was differential equattion, and the thesis for sociology was about circulated economy and its application. Aftter graduation, I worked in a Consulting firm named NielsonIQ for one year as a researcher. I grow up in Beijing, China, and lived in Jersey City for the past five years.
+Biography: My name is Anzhi Chen, a MACSS student. I grow up in Beijing, China, and lived in Jersey City for the past five years. I graduated from NYU majoring in mathematics and sociology, but the majoriy of time was spent on mathematics. My concentration on math was differential equation, and the thesis for sociology was about circulated economy and its application. After graduation, I worked in a consulting firm named NielsonIQ for one year as a researcher. 
 
 # This is a header
 
@@ -29,6 +29,9 @@ Biography: My name is Anzhi Chen, a MACSS student. I graduated from NYU majoring
 ![it's a picture](./prisma.jpeg)
 
 [Google](http://www.google.com)
+
+Summary: I initially cloned the repository to my local environment by using the terminal, made modifications to the README.md file in VS Code, and subsequently committed all the changes through terminal, agian. All the changes follow a one-to-one correspondence to the requirement of the homework. The Markdown elements discussed today, including headers, bold, and italics, were previously introduced during our summer workshop. I acquired the knowledge of embedding images into the README file from Stack Exchange, a platform akin to Quora but tailored for computer science topics. I realized that today's class meant to review some basic concepts in computer science, with most of them already familiar to me, so nothing really surprised my today. However, I look forward to working with all of you in the future.
+
 
 
 ## 📚  Resources 
